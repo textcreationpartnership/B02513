@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My bird is a Round-head. Being a very pleasant and true relation of a man in Northamptonshire, that kept a tame owle in his house, whom he called Round-head, and how one of his neighbors had him before a justice, for calling his owle Round-head. To the tune of, Let us to the wars againe.</title>
+            <author>Crouch, Humphrey, fl. 1635-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02513</idno>
+            <idno type="STC">Wing C7285B</idno>
+            <idno type="STC">ESTC R175861</idno>
+            <idno type="EEBO-CITATION">52212005</idno>
+            <idno type="OCLC">ocm 52212005</idno>
+            <idno type="VID">175627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175627)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2743:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My bird is a Round-head. Being a very pleasant and true relation of a man in Northamptonshire, that kept a tame owle in his house, whom he called Round-head, and how one of his neighbors had him before a justice, for calling his owle Round-head. To the tune of, Let us to the wars againe.</title>
+                  <author>Crouch, Humphrey, fl. 1635-1671.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Richard Harper, at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Humphery Crouch.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political ballads and songs --  England --  17th century.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175627:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>My Bird is a Round-head,</head>
+            <argument>
+               <p>Being a very pleaſant and true Relation of a man in <hi>Nor<g ref="char:EOLhyphen"/>thamptonſhire,</hi> that kept a tame Owle in his houſe, whom he called Round-head; and how one of his neighbours had him before a Juſtice, for calling his Owle Round-head.</p>
+            </argument>
+            <opener>To the tune of, let us to the wars againe.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AS I to <hi>London</hi> tooke my way,</l>
+                  <l>A pretty paſſage caus'd me to ſtay,</l>
+                  <l>Which you ſhall know if you attend,</l>
+                  <l>No honeſt man I will offend;</l>
+                  <l>You that are wiſe in your conceits,</l>
+                  <l>That with meere toyes doe trouble your pates,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>In <hi>Northamtonſhire</hi> a man did dwell,</l>
+                  <l>That ſports and paſtimes loved well,</l>
+                  <l>A May-pole be ſet up on hye,</l>
+                  <l>To recreate all Commers by;</l>
+                  <l>But one that was more nice then wiſe,</l>
+                  <l>Was much offended and tearm'd it a vice:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Neithbour (quoth he) you are prophane,</l>
+                  <l>I wonder you will be ſo vaine,</l>
+                  <l>A May-pole here for to erect,</l>
+                  <l>Me thinkes ſuch toyes you ſhould reiect;</l>
+                  <l>Young folke about it dance and play,</l>
+                  <l>It leads their minds too much aſtray:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe a Round-head ſtill,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Ile have it downe beleeve me friend,</l>
+                  <l>Although that halfe my eſtate I ſpend,</l>
+                  <l>Tis but a kind of an Idoll vaine,</l>
+                  <l>Againſt it honeſt men complaine;</l>
+                  <l>And thus this underſtanding Clowne,</l>
+                  <l>Did ſtill proteſt to have it downe:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Kind neighbour quoth the other man,</l>
+                  <l>How long have you beene a Puritan?</l>
+                  <l>Zounds <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he May-pole here ſhall ſtand,</l>
+                  <l>It ſhall not downe at your command;</l>
+                  <l>You I have it downe, I pray Sir, why?</l>
+                  <l>Come ſhow me your authority?</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird he is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This man he had an Owle in his houſe,</l>
+                  <l>That killed many a Rat and Mouſe,</l>
+                  <l>And cauſe he would doe w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he liſt,</l>
+                  <l>He brought her otr upon his fiſt;</l>
+                  <l>And to his neighbour ſhew'd her ſtraight,</l>
+                  <l>That ſtill ſtood bawling at his gate:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part,</head>
+               <opener>to the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>NEeighbour, what Bird is this (quoth he)</l>
+                  <l>That here upon my fiſt you ſee?</l>
+                  <l>Tis a Mag-howlet tother reply'd,</l>
+                  <l>That on your fiſt doth now abide;</l>
+                  <l>No, tis a Round-head on my fiſt,</l>
+                  <l>I hope I may call my Bird what I liſt:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The man began to fret and chafe,</l>
+                  <l>Whilſt he with his Owle did heartily laugh,</l>
+                  <l>His laughing made him almoſt mad,</l>
+                  <l>The one was merry the other ſad:</l>
+                  <l>My pretty Round-head hurteth none,</l>
+                  <l>Among other Round-heads my Bird is one:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>She meddles not with State affaires,</l>
+                  <l>Or ſets her neighbours by the eares,</l>
+                  <l>No Croſſe nor May-pole makes her ſtart,</l>
+                  <l>Nor can ſhe preach in Cup or Cart;</l>
+                  <l>She ſeekes to pull no Organs downe,</l>
+                  <l>Nor on an Image caſts a frowne:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To be reveng'd the other ſought,</l>
+                  <l>He cal'd him knave and all to nought,</l>
+                  <l>Before a Iuſtice he did him bring,</l>
+                  <l>And told the Iuſtice every thing;</l>
+                  <l>Before the Iuſtice they came I wis,</l>
+                  <l>But all they could get of him was this,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sirrah quoth the Iuſtice hold your-tongue,</l>
+                  <l>Good men methinkes you ſhould not wrong,</l>
+                  <l>Sir quoth the man, nor have I yet,</l>
+                  <l>Though he thinks ſo for want of wit;</l>
+                  <l>I have a Bird he ſayes ſhe's an Owle,</l>
+                  <l>But I may call her Round-head or foole:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird ſhe is a Round-head ſtill,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Iuſtice knew not what to ſay,</l>
+                  <l>But friendly bid him goe his way,</l>
+                  <l>Then home he went being diſmiſt</l>
+                  <l>With his Round-head upon his fiſt;</l>
+                  <l>I wonder men ſo ſimple be,</l>
+                  <l>They can be ſo diſplea'd with me:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There's none my Round-head vill deſpiſe,</l>
+                  <l>But ſuch as are knowne to be unwiſe,</l>
+                  <l>Giggy-headed fooles and dolts,</l>
+                  <l>Siſters and unbridled Colts;</l>
+                  <l>My Round-head is a gallant Bird,</l>
+                  <l>Good words to her I pray afford:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To whit to who, come ſay what you will,</hi>
+                     </l>
+                     <l>
+                        <hi>My Bird it is a Round-head ſtill.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>Humphery Crouch.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>Richard Harper,</hi> at the Bi<g ref="char:EOLhyphen"/>ble and Harpe in <hi>Smithfield.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
